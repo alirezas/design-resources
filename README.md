@@ -7,7 +7,7 @@
 - [Calltoidea](http://www.calltoidea.com/)
 - [Zurb PatternTap](http://zurb.com/patterntap)
 
-### Web Design Inspirations
+### Web Design Inspiration
 - [siteInspire](https://www.siteinspire.com/)
 - [Awwwards](http://www.awwwards.com/)
 - [CSS Design Awards](http://www.cssdesignawards.com/)
@@ -18,11 +18,19 @@
 
 ### Mobile Design Inspiration
 - [pttrns](http://pttrns.com/)
+- [Android Niceties](http://androidniceties.tumblr.com/)
 
-### Design Inspirations
+### Design Inspiration
 - [Niice](https://niice.co/)
 - [Designspiration](http://designspiration.net/)
 
 ### Stock Images (Free!)
 - [Pexels](https://www.pexels.com/)
 - [Unsplash](https://unsplash.com/)
+
+### Icon Fonts
+- [Font Awesome](http://fontawesome.io/)
+- [Elusive Icons](http://elusiveicons.com/)
+- [Fontello](http://fontello.com/)
+- [IcoMoon](https://icomoon.io/)
+- [We Love Icon Fonts](http://weloveiconfonts.com/)
