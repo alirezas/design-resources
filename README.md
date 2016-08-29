@@ -14,6 +14,7 @@
 - [Siiimple](http://siiimple.com/)
 - [CSSMania](http://www.cssmania.com/)
 - [FlatDsgn](http://flatdsgn.com/)
+- [The Best Designs](https://www.thebestdesigns.com/)
 
 ### Mobile Design Inspiration
 - [pttrns](http://pttrns.com/)
@@ -21,3 +22,7 @@
 ### Design Inspirations
 - [Niice](https://niice.co/)
 - [Designspiration](http://designspiration.net/)
+
+### Stock Images (Free!)
+- [Pexels](https://www.pexels.com/)
+- [Unsplash](https://unsplash.com/)
