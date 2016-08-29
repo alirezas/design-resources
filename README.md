@@ -1,11 +1,11 @@
 # Resources
-- [UI Inspiration Collections](#UI-Inspiration-Collections)
-- [Web Design Inspiration](#Web-Design-Inspiration)
-- [Mobile Design Inspiration](#Mobile-Design-Inspiration)
-- [Design Inspiration](#Design-Inspiration)
-- [Stock Images (Free!)](#Stock-Images-Free)
-- [Icon Fonts](#Icon-Fonts)
-- [Newsletter](#Newsletter)
+- [UI Inspiration Collections](#ui-inspiration-collections)
+- [Web Design Inspiration](#web-design-inspiration)
+- [Mobile Design Inspiration](#mobile-design-inspiration)
+- [Design Inspiration](#design-inspiration)
+- [Stock Images (Free!)](#stock-images-free)
+- [Icon Fonts](#icon-fonts)
+- [Newsletter](#newsletter)
 
 ### UI Inspiration Collections
 - [Collect UI](http://collectui.com/)
