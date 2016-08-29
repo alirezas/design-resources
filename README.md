@@ -1,4 +1,11 @@
 # Resources
+- [UI Inspiration Collections](#UI-Inspiration-Collections)
+- [Web Design Inspiration](#Web-Design-Inspiration)
+- [Mobile Design Inspiration](#Mobile-Design-Inspiration)
+- [Design Inspiration](#Design-Inspiration)
+- [Stock Images (Free!)](#Stock-Images-Free)
+- [Icon Fonts](#Icon-Fonts)
+- [Newsletter](#Newsletter)
 
 ### UI Inspiration Collections
 - [Collect UI](http://collectui.com/)
@@ -34,3 +41,7 @@
 - [Fontello](http://fontello.com/)
 - [IcoMoon](https://icomoon.io/)
 - [We Love Icon Fonts](http://weloveiconfonts.com/)
+
+### Newsletter
+- [Sidebar](http://sidebar.io/)
+- [Web Designer News](http://www.webdesignernews.com/)
