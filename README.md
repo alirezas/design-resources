@@ -50,3 +50,4 @@
 ### Newsletter
 - [Sidebar](http://sidebar.io/)
 - [Web Designer News](http://www.webdesignernews.com/)
+- [HeyDesigner](http://heydesigner.com/)
