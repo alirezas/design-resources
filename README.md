@@ -15,6 +15,7 @@
 - [UI Parade](http://www.uiparade.com/)
 - [Calltoidea](http://www.calltoidea.com/)
 - [Zurb PatternTap](http://zurb.com/patterntap)
+- [UICloud](http://ui-cloud.com/)
 
 ### Web Design Inspiration
 - [siteInspire](https://www.siteinspire.com/)
@@ -27,6 +28,9 @@
 - [CSS Garden](http://www.cssgarden.co.uk/)
 - [Dzinemart](http://www.dzinemart.com/)
 - [Unmatched Style](http://unmatchedstyle.com/gallery)
+- [MoodBoard](http://www.gomoodboard.com/)
+- [Land-book](http://land-book.com/)
+- [One Page Love](https://onepagelove.com/)
 
 ### Mobile Design Inspiration
 - [pttrns](http://pttrns.com/)
