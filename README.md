@@ -7,6 +7,8 @@
 - [Icon Fonts](#icon-fonts)
 - [Newsletter](#newsletter)
 
+***
+
 ### UI Inspiration Collections
 - [Collect UI](http://collectui.com/)
 - [Inspiration UI](http://inspirationui.com/)
