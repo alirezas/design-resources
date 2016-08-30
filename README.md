@@ -22,6 +22,9 @@
 - [CSSMania](http://www.cssmania.com/)
 - [FlatDsgn](http://flatdsgn.com/)
 - [The Best Designs](https://www.thebestdesigns.com/)
+- [CSS Garden](http://www.cssgarden.co.uk/)
+- [Dzinemart](http://www.dzinemart.com/)
+- [Unmatched Style](http://unmatchedstyle.com/gallery)
 
 ### Mobile Design Inspiration
 - [pttrns](http://pttrns.com/)
