@@ -6,6 +6,7 @@
 - [Stock Images (Free!)](#stock-images-free)
 - [Icon Fonts](#icon-fonts)
 - [Newsletter](#newsletter)
+- [Community](#community)
 
 ***
 
@@ -55,3 +56,7 @@
 - [Sidebar](http://sidebar.io/)
 - [Web Designer News](http://www.webdesignernews.com/)
 - [HeyDesigner](http://heydesigner.com/)
+
+### Community
+- [Designer News](https://www.designernews.co/)
+- [Product Hunt](https://www.producthunt.com/)
