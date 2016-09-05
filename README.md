@@ -1,4 +1,8 @@
 # Resources
+Here is a list of top sources for your design workflow.
+
+Please help me to extend and improve this list ;)
+
 - [UI Inspiration Collections](#ui-inspiration-collections)
 - [Web Design Inspiration](#web-design-inspiration)
 - [Mobile Design Inspiration](#mobile-design-inspiration)
