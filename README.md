@@ -21,6 +21,10 @@ Please help me to extend and improve this list ;)
 - [Calltoidea](http://www.calltoidea.com/)
 - [Zurb PatternTap](http://zurb.com/patterntap)
 - [UICloud](http://ui-cloud.com/)
+- [Checkout Pages](http://www.checkoutpages.xyz/)
+- [Pricing Pages](http://www.pricingpages.xyz/)
+- [Store Pages](http://www.storepages.xyz/)
+- [Product Pages](http://www.productpages.xyz/)
 
 ### Web Design Inspiration
 - [siteInspire](https://www.siteinspire.com/)
