@@ -9,7 +9,7 @@ Please help me to extend and improve this list ;)
 - [Design Inspiration](#design-inspiration)
 - [Stock Images (Free!)](#stock-images-free)
 - [Icon Fonts](#icon-fonts)
-- [Freebies](#freebeis)
+- [Freebies](#freebies)
 - [Newsletter](#newsletter)
 - [Community](#community)
 
