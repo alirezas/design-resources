@@ -9,6 +9,7 @@ Please help me to extend and improve this list ;)
 - [Design Inspiration](#design-inspiration)
 - [Stock Images (Free!)](#stock-images-free)
 - [Icon Fonts](#icon-fonts)
+- [Freebies](#freebeis)
 - [Newsletter](#newsletter)
 - [Community](#community)
 
@@ -53,6 +54,10 @@ Please help me to extend and improve this list ;)
 - [Pexels](https://www.pexels.com/)
 - [Unsplash](https://unsplash.com/)
 - [Stock Up](https://www.sitebuilderreport.com/stock-up)
+- [StockSnap.io](https://stocksnap.io)
+- [Tookapic Stock](https://stock.tookapic.com/)
+- [TheStocks.im](http://thestocks.im/)
+- [Death to the Stock Photo](http://deathtothestockphoto.com/)
 
 ### Icon Fonts
 - [Font Awesome](http://fontawesome.io/)
@@ -60,6 +65,10 @@ Please help me to extend and improve this list ;)
 - [Fontello](http://fontello.com/)
 - [IcoMoon](https://icomoon.io/)
 - [We Love Icon Fonts](http://weloveiconfonts.com/)
+
+### Freebies
+- [Stocky](http://stocky.pro)
+- [AllTheFreeStock](http://allthefreestock.com/)
 
 ### Newsletter
 - [Sidebar](http://sidebar.io/)
