@@ -41,6 +41,7 @@ Please help me to extend and improve this list ;)
 - [MoodBoard](http://www.gomoodboard.com/)
 - [Land-book](http://land-book.com/)
 - [One Page Love](https://onepagelove.com/)
+- [lapa](http://lapa.ninja/)
 
 ### Mobile Design Inspiration
 - [pttrns](http://pttrns.com/)
