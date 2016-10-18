@@ -8,7 +8,7 @@ Please help me to extend and improve this list ;)
 - [Mobile Design Inspiration](#mobile-design-inspiration)
 - [Design Inspiration](#design-inspiration)
 - [Stock Images (Free!)](#stock-images-free)
-- [Icon Fonts](#icon-fonts)
+- [Icon](#icon)
 - [Freebies](#freebies)
 - [Newsletter](#newsletter)
 - [Community](#community)
@@ -60,12 +60,13 @@ Please help me to extend and improve this list ;)
 - [TheStocks.im](http://thestocks.im/)
 - [Death to the Stock Photo](http://deathtothestockphoto.com/)
 
-### Icon Fonts
+### Icon
 - [Font Awesome](http://fontawesome.io/)
 - [Elusive Icons](http://elusiveicons.com/)
 - [Fontello](http://fontello.com/)
 - [IcoMoon](https://icomoon.io/)
 - [We Love Icon Fonts](http://weloveiconfonts.com/)
+- [CSS ICON](http://cssicon.space/)
 
 ### Freebies
 - [Stocky](http://stocky.pro)
