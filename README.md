@@ -60,6 +60,12 @@ Please help me to extend and improve this list ;)
 - [TheStocks.im](http://thestocks.im/)
 - [Death to the Stock Photo](http://deathtothestockphoto.com/)
 
+### Color Palette
+- [Color Hunt](http://colorhunt.co/)
+- [ColorDrop](https://colordrop.io/)
+- [ColorFavs](http://www.colorfavs.com/)
+- [PLTTS](http://pltts.me/palettes)
+
 ### Icon
 - [Font Awesome](http://fontawesome.io/)
 - [Elusive Icons](http://elusiveicons.com/)
