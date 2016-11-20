@@ -66,6 +66,7 @@ Please help me to extend and improve this list ;)
 - [ColorDrop](https://colordrop.io/)
 - [ColorFavs](http://www.colorfavs.com/)
 - [PLTTS](http://pltts.me/palettes)
+- [Color Farm](http://color.farm/)
 
 ### Icon
 - [Font Awesome](http://fontawesome.io/)
