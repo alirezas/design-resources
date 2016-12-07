@@ -43,6 +43,7 @@ Please help me to extend and improve this list ;)
 - [Land-book](http://land-book.com/)
 - [One Page Love](https://onepagelove.com/)
 - [lapa](http://lapa.ninja/)
+- [Httpster](https://httpster.net/)
 
 ### Mobile Design Inspiration
 - [pttrns](http://pttrns.com/)
