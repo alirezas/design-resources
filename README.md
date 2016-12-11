@@ -13,6 +13,10 @@ Please help me to extend and improve this list ;)
 - [Freebies](#freebies)
 - [Newsletter](#newsletter)
 - [Community](#community)
+- [Tools](#tools)
+- [Prototyping](#prototyping)
+- [User Testing](#user-testing)
+- [Development](#development)
 
 ***
 
@@ -91,3 +95,25 @@ Please help me to extend and improve this list ;)
 ### Community
 - [Designer News](https://www.designernews.co/)
 - [Product Hunt](https://www.producthunt.com/)
+
+### Tools
+- [Sketch](https://www.sketchapp.com/) - Design Tool for Mac
+- [Figma](https://www.figma.com/) - Real-time Collaborative UI Design Tool
+- [Zeplin](https://zeplin.io/) - Collaborative Design Tool
+- [Squarespace](https://www.squarespace.com/)
+
+### Prototyping
+- [Origami](http://origami.design/)
+- [Atomic](https://atomic.io/)
+
+### User Testing
+- [UserTesting](https://www.usertesting.com/)
+- [Validately](https://validately.com/)
+- [Lookback](https://lookback.io/)
+
+### Development
+- [Github](https://github.com)
+- [Bitbucket](https://bitbucket.org/) - Git with private repositories
+- [Heroku](https://www.heroku.com/) - Cloud Development Platform
+- [Pantheon](https://pantheon.io/) - Wordpress & Drupal Hosting
+- [Algolia](https://www.algolia.com/) - Hosted Search API
