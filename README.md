@@ -123,3 +123,4 @@ Please help me to extend and improve this list ;)
 - [Pantheon](https://pantheon.io/) - Wordpress & Drupal Hosting
 - [Algolia](https://www.algolia.com/) - Hosted Search API
 - [Surge](http://surge.sh/) - Static web publishing
+- [Jekyll](https://jekyllrb.com/) - Static websites and blogs
