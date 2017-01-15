@@ -52,6 +52,7 @@ Please help me to extend and improve this list ;)
 ### Mobile Design Inspiration
 - [pttrns](http://pttrns.com/)
 - [Android Niceties](http://androidniceties.tumblr.com/)
+- [LaudableApps](http://laudableapps.com/) - Showcase for beautiful iOS apps
 
 ### Design Inspiration
 - [Niice](https://niice.co/)
