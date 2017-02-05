@@ -88,6 +88,7 @@ Please help me to extend and improve this list ;)
 - [AllTheFreeStock](http://allthefreestock.com/)
 - [Sketch App Sources](http://www.sketchappsources.com/)
 - [Facebook Design](http://facebook.design/)
+- [UX Flow](http://uxflow.co/) - Flowchart kit for Sketch
 
 ### Newsletter
 - [Sidebar](http://sidebar.io/)
