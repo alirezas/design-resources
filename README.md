@@ -82,6 +82,7 @@ Please help me to extend and improve this list ;)
 - [IcoMoon](https://icomoon.io/)
 - [We Love Icon Fonts](http://weloveiconfonts.com/)
 - [CSS ICON](http://cssicon.space/)
+- [Hawcons](http://hawcons.com/)
 
 ### Freebies
 - [Stocky](http://stocky.pro)
