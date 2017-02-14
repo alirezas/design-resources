@@ -83,6 +83,7 @@ Please help me to extend and improve this list ;)
 - [We Love Icon Fonts](http://weloveiconfonts.com/)
 - [CSS ICON](http://cssicon.space/)
 - [Hawcons](http://hawcons.com/)
+- [Octicons](https://octicons.github.com/)
 
 ### Freebies
 - [Stocky](http://stocky.pro)
