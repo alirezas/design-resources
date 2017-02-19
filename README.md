@@ -75,6 +75,7 @@ Please help me to extend and improve this list ;)
 - [PLTTS](http://pltts.me/palettes)
 - [Color Farm](http://color.farm/)
 - [ColorMe](https://colorme.io/)
+- [WebGradients](https://webgradients.com/)
 
 ### Icon
 - [Font Awesome](http://fontawesome.io/)
