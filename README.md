@@ -86,6 +86,9 @@ Please help me to extend and improve this list ;)
 - [CSS ICON](http://cssicon.space/)
 - [Hawcons](http://hawcons.com/)
 - [Octicons](https://octicons.github.com/)
+- [iconspider](https://www.iconspider.com/)
+- [Flaticon](http://www.flaticon.com/)
+- [Iconfinder](https://www.iconfinder.com/)
 
 ### Freebies
 - [Stocky](http://stocky.pro)
