@@ -96,6 +96,8 @@ Please help me to extend and improve this list ;)
 - [Sketch App Sources](http://www.sketchappsources.com/)
 - [Facebook Design](http://facebook.design/)
 - [UX Flow](http://uxflow.co/) - Flowchart kit for Sketch
+- [Wirez](http://wirez.fikristudio.com/) - Wireframe kit
+- [Snap](https://www.behance.net/gallery/50270083/Snap-Rapid-Wireframing-Kit-(free)) - Wireframe kit
 
 ### Newsletter
 - [Sidebar](http://sidebar.io/)
