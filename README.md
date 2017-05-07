@@ -18,6 +18,7 @@ Please help me to extend and improve this list ;)
 - [User Testing](#user-testing)
 - [Development](#development)
 - [Framework](#framework)
+- [Miscellaneous](#miscellaneous)
 
 ***
 
@@ -145,3 +146,7 @@ Please help me to extend and improve this list ;)
 - [Bootstrap](http://getbootstrap.com/)
 - [Foundation](http://foundation.zurb.com/)
 - [Propeller](http://propeller.in/) - responsive framework based on Google's Material Design Standards & Bootstrap
+
+### Miscellaneous
+- [Launchaco](http://launchaco.com/)
+- [Noisli](https://www.noisli.com/)
