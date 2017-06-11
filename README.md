@@ -91,6 +91,7 @@ Please help me to extend and improve this list ;)
 - [iconspider](https://www.iconspider.com/)
 - [Flaticon](http://www.flaticon.com/)
 - [Iconfinder](https://www.iconfinder.com/)
+- [Feather](https://feathericons.com/)
 
 ### Freebies
 - [Stocky](http://stocky.pro)
