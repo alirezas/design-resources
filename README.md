@@ -79,6 +79,7 @@ Please help me to extend and improve this list ;)
 - [ColorMe](https://colorme.io/)
 - [WebGradients](https://webgradients.com/)
 - [Colors - Canva's Design Wiki](https://www.canva.com/colors/)
+- [Coolors.co](https://coolors.co)
 
 ### Icon
 - [Font Awesome](http://fontawesome.io/)
