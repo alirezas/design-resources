@@ -33,6 +33,7 @@ Please help me to extend and improve this list ;)
 - [Pricing Pages](http://www.pricingpages.xyz/)
 - [Store Pages](http://www.storepages.xyz/)
 - [Product Pages](http://www.productpages.xyz/)
+- [Really Good Emails](https://reallygoodemails.com/)
 
 ### Web Design Inspiration
 - [siteInspire](https://www.siteinspire.com/)
