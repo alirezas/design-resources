@@ -156,3 +156,7 @@ Please help me to extend and improve this list ;)
 ### Miscellaneous
 - [Launchaco](http://launchaco.com/)
 - [Noisli](https://www.noisli.com/)
+
+### Checkup
+- [Rich Link Preview](https://richpreview.com/)
+- [Check GZIP Compression](https://checkgzipcompression.com/)
