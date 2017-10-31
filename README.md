@@ -86,6 +86,7 @@ Please help me to extend and improve this list ;)
 
 ### Icon
 - [Font Awesome](http://fontawesome.io/)
+- [Fontisto](http://fontisto.com/)
 - [Elusive Icons](http://elusiveicons.com/)
 - [Fontello](http://fontello.com/)
 - [IcoMoon](https://icomoon.io/)
