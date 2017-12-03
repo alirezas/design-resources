@@ -127,6 +127,7 @@ Please help me to extend and improve this list ;)
 - [Lunacy](https://icons8.com/lunacy) - Sketch Viewer for Windows
 - [Iconjar](https://geticonjar.com/) - A Tool to Help You Organize and Manage Icons
 - [FontPrep](https://github.com/briangonzalez/fontprep) - Font Generator for MacOS
+- [fontplop](http://www.fontplop.com/) - fontplop is an OSX/macOS application which takes ttf and otf files and outputs a webfont bundle: woff2, woff, tff/otf.
 - [Vecteezy](https://www.vecteezy.com/editor) - SVG Editor
 
 ### Prototyping
