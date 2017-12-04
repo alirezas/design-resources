@@ -129,6 +129,7 @@ Please help me to extend and improve this list ;)
 - [FontPrep](https://github.com/briangonzalez/fontprep) - Font Generator for MacOS
 - [fontplop](http://www.fontplop.com/) - fontplop is an OSX/macOS application which takes ttf and otf files and outputs a webfont bundle: woff2, woff, tff/otf.
 - [Vecteezy](https://www.vecteezy.com/editor) - SVG Editor
+- [SVGOMG](https://jakearchibald.github.io/svgomg/)
 
 ### Prototyping
 - [Origami](http://origami.design/)
