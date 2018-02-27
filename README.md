@@ -83,6 +83,7 @@ Please help me to extend and improve this list ;)
 - [Colors - Canva's Design Wiki](https://www.canva.com/colors/)
 - [Coolors.co](https://coolors.co)
 - [Grabient](https://www.grabient.com/)
+- [Flat UI Colors](https://flatuicolors.com/)
 
 ### Icon
 - [Font Awesome](http://fontawesome.io/)
