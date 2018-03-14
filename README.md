@@ -84,6 +84,7 @@ Please help me to extend and improve this list ;)
 - [Coolors.co](https://coolors.co)
 - [Grabient](https://www.grabient.com/)
 - [Flat UI Colors](https://flatuicolors.com/)
+- [CSS Gradient](https://cssgradient.io/)
 
 ### Icon
 - [Font Awesome](http://fontawesome.io/)
