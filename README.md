@@ -87,6 +87,7 @@ Please help me to extend and improve this list ;)
 - [Flat UI Colors](https://flatuicolors.com/)
 - [CSS Gradient](https://cssgradient.io/)
 - [Veranda Color](https://verandacolor.com/)
+- [Croma](https://croma.app)
 
 ### Icon
 - [Font Awesome](http://fontawesome.io/)
